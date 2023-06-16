@@ -182,6 +182,12 @@ class URLPredictionController {
         String prediction = predictionService.predict(url);
         return ResponseEntity.ok(prediction);
     }
+
+    @GetMapping("/learn_more")
+    public String learnMore() {
+        return "learn_more";
+    }
+
 }
 
 }

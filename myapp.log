@@ -1,32 +1,32 @@
-2023-06-01T11:09:12.237-05:00  INFO 17720 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Starting CapestoneV2Application using Java 19.0.1 with PID 17720 (C:\Users\Owner\IdeaProjects\CapestoneV2\build\classes\java\main started by Owner in C:\Users\Owner\IdeaProjects\CapestoneV2)
-2023-06-01T11:09:12.283-05:00  INFO 17720 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : No active profile set, falling back to 1 default profile: "default"
-2023-06-01T11:09:12.831-05:00  INFO 17720 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2023-06-01T11:09:12.832-05:00  INFO 17720 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2023-06-01T11:09:26.468-05:00  INFO 17720 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
-2023-06-01T11:09:26.609-05:00  INFO 17720 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2023-06-01T11:09:26.610-05:00  INFO 17720 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
-2023-06-01T11:09:27.151-05:00  INFO 17720 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2023-06-01T11:09:27.152-05:00  INFO 17720 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 14298 ms
-2023-06-01T11:09:30.102-05:00  INFO 17720 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
-2023-06-01T11:09:34.038-05:00  INFO 17720 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2023-06-01T11:09:34.192-05:00  INFO 17720 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-2023-06-01T11:09:34.208-05:00  INFO 17720 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Started CapestoneV2Application in 29.599 seconds (process running for 43.178)
-2023-06-01T11:09:41.650-05:00  INFO 17720 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2023-06-01T11:09:41.651-05:00  INFO 17720 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2023-06-01T11:09:41.653-05:00  INFO 17720 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
-2023-06-01T14:45:15.642-05:00  INFO 5844 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Starting CapestoneV2Application using Java 19.0.1 with PID 5844 (C:\Users\Owner\IdeaProjects\CapestoneV2\build\classes\java\main started by Owner in C:\Users\Owner\IdeaProjects\CapestoneV2)
-2023-06-01T14:45:15.645-05:00  INFO 5844 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : No active profile set, falling back to 1 default profile: "default"
-2023-06-01T14:45:15.900-05:00  INFO 5844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2023-06-01T14:45:15.901-05:00  INFO 5844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2023-06-01T14:45:19.359-05:00  INFO 5844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
-2023-06-01T14:45:19.376-05:00  INFO 5844 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2023-06-01T14:45:19.377-05:00  INFO 5844 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
-2023-06-01T14:45:19.491-05:00  INFO 5844 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2023-06-01T14:45:19.491-05:00  INFO 5844 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3589 ms
-2023-06-01T14:45:20.246-05:00  INFO 5844 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
-2023-06-01T14:45:20.805-05:00  INFO 5844 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2023-06-01T14:45:20.870-05:00  INFO 5844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-2023-06-01T14:45:20.881-05:00  INFO 5844 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Started CapestoneV2Application in 7.507 seconds (process running for 11.479)
-2023-06-01T14:45:37.841-05:00  INFO 5844 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2023-06-01T14:45:37.842-05:00  INFO 5844 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2023-06-01T14:45:37.843-05:00  INFO 5844 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-06-04T08:29:53.119-05:00  INFO 12256 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Starting CapestoneV2Application using Java 19.0.1 with PID 12256 (C:\Users\Owner\IdeaProjects\CapestoneV2\build\classes\java\main started by Owner in C:\Users\Owner\IdeaProjects\CapestoneV2)
+2023-06-04T08:29:53.131-05:00  INFO 12256 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : No active profile set, falling back to 1 default profile: "default"
+2023-06-04T08:29:53.233-05:00  INFO 12256 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-04T08:29:53.233-05:00  INFO 12256 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-04T08:29:54.627-05:00  INFO 12256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-04T08:29:54.646-05:00  INFO 12256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-04T08:29:54.646-05:00  INFO 12256 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-06-04T08:29:54.888-05:00  INFO 12256 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-04T08:29:54.889-05:00  INFO 12256 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1607 ms
+2023-06-04T08:29:55.215-05:00  INFO 12256 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-06-04T08:29:55.481-05:00  INFO 12256 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-06-04T08:29:55.540-05:00  INFO 12256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-04T08:29:55.555-05:00  INFO 12256 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Started CapestoneV2Application in 3.147 seconds (process running for 4.256)
+2023-06-04T08:30:15.542-05:00  INFO 12256 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-04T08:30:15.543-05:00  INFO 12256 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-06-04T08:30:15.544-05:00  INFO 12256 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-06-04T21:07:59.910-05:00  INFO 18944 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Starting CapestoneV2Application using Java 19.0.1 with PID 18944 (C:\Users\Owner\IdeaProjects\CapestoneV2\build\classes\java\main started by Owner in C:\Users\Owner\IdeaProjects\CapestoneV2)
+2023-06-04T21:07:59.914-05:00  INFO 18944 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : No active profile set, falling back to 1 default profile: "default"
+2023-06-04T21:07:59.980-05:00  INFO 18944 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-04T21:07:59.980-05:00  INFO 18944 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-04T21:08:01.692-05:00  INFO 18944 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-04T21:08:01.706-05:00  INFO 18944 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-04T21:08:01.706-05:00  INFO 18944 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-06-04T21:08:01.838-05:00  INFO 18944 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-04T21:08:01.839-05:00  INFO 18944 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1857 ms
+2023-06-04T21:08:02.224-05:00  INFO 18944 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-06-04T21:08:02.507-05:00  INFO 18944 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-06-04T21:08:02.548-05:00  INFO 18944 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-04T21:08:02.558-05:00  INFO 18944 --- [restartedMain] c.e.capestonev2.CapestoneV2Application   : Started CapestoneV2Application in 3.443 seconds (process running for 5.303)
+2023-06-04T21:08:07.140-05:00  INFO 18944 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-04T21:08:07.140-05:00  INFO 18944 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-06-04T21:08:07.142-05:00  INFO 18944 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
